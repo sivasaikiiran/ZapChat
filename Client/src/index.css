@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.class {
+    background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20230720/pngtree-message-icon-integrated-into-3d-rendered-whatsapp-logo-image_3689025.jpg');
+
+    /* background-image: url('https://media.istockphoto.com/id/1945538809/vector/speech-bubble-talking-chatting-quote-communication-abstract-background.jpg?s=612x612&w=0&k=20&c=eG7i2WH3JOmjaKP6FfK7B36VTK16QP0jvSaUW8DOpHY='); */
+
+}
+
+.roboto-thin {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.roboto-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.roboto-bold {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.roboto-black {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+
+.roboto-thin-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+}
+
+.roboto-light-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.roboto-regular-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.roboto-medium-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.roboto-bold-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.roboto-black-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+}

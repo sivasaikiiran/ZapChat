@@ -8,7 +8,7 @@ const setupSocket = (server) => {
 
     const io = new Server(server, {
         cors: {
-            origin: ["http://localhost:5173", "https://chat-app-rho-swart.vercel.app"],
+            origin: ["http://localhost:5173", "https://zap-chat-six.vercel.app"],
             credentials: true,
         },
     })
